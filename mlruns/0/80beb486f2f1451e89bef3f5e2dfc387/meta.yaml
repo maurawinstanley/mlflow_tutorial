@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/80beb486f2f1451e89bef3f5e2dfc387/artifacts
+end_time: 1592853918263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 80beb486f2f1451e89bef3f5e2dfc387
+run_uuid: 80beb486f2f1451e89bef3f5e2dfc387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1592853918227
+status: 3
+tags: []
+user_id: mauraw
